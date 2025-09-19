@@ -1,5 +1,4 @@
 name: devsecops-pipeline
-
 on: [push, pull_request]
 
 jobs:
